@@ -1,0 +1,12 @@
+Classes
+Soldier: Melee unit. High defense and attack. low speed
+Archer: Ranged unit. High speed and attack . Low defense
+Mage: Magic unit. High Magic and attack. Low speed and defense. Has spells.
+Unique Racial classes
+Cathuman: Warclawion warrior
+Doghuman: Bruiser
+Wolfhuman: Shifter
+Snakehuman: Assasin
+Lizardhuman: Gunner
+Bearhuman: Berserker
+Boarhuman: Adapter
