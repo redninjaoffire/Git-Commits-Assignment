@@ -12,3 +12,4 @@ To get a upper edge the Cathumans then tried to colonize the third planet in the
 When I first created Catredknightman, I made a game I played with my friends where we would play outside as our character me being Catredknightman, and them who ever their character was. It was fun and helped me develop a story to this world. Of course I still have to fix some things before its perfect.
 With the advanced amount of magic and technology all Anamalions can live for a very long amount of time. For example Cat humans can live to be 100,000 years old if they are healthy and not killed, and sometimes longer then that.
 I plan on eventually making this story into a Video game. I probably will have to revise and edit some things to make it work.
+If you enjoyed this little peek at the game go ahead and let me know and I will tell you more.
